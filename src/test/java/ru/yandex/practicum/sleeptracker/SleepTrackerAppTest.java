@@ -1,10 +1,10 @@
-package ru.yandex.practicum.sleeptracker.model.function;
+package ru.yandex.practicum.sleeptracker;
 
 import org.junit.jupiter.api.Test;
 import ru.yandex.practicum.sleeptracker.model.SleepAnalysisResult;
 import ru.yandex.practicum.sleeptracker.model.SleepingSession;
 import ru.yandex.practicum.sleeptracker.model.SleepQuality;
-
+import ru.yandex.practicum.sleeptracker.model.function.*;
 import java.time.LocalDateTime;
 import java.util.ArrayList;
 import java.util.List;
